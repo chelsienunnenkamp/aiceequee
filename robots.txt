@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quioxahyoe.opensourcetester.co.uk/sitemap.xml
